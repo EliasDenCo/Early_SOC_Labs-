@@ -1,1 +1,10 @@
 # Early_SOC_Labs-
+Soc-lab-notes
+TryHackMe SOC anaylst 1
+Junior Security Analyst Intro RM1-Completed the introductory SOC room. Covered what the day-to-day looks like for a junior SOC analyst including triage basics, and how security events get investigated. Confirmed that the blue team analyst workflow maps directly to what Sec+ is teaching conceptually.
+SOC Role in Blue Team RM2-Further investigated what it takes to be in the field of SOC. Learned about the different roles and began to understand the different relationships each role has in the cyber security world and hierarchy to each other.
+SOC L1 Alert Triage RM3- Learned about the process of triaging alerts in the system. I am glad I remember my EACEWNID from Net+ to help with the classifications and decisions on which alert to triage first.
+SOC L1 Alert Reporting RM4- Learned about the proper procedure to escalate alerts from L1 to L2. Got to practice identifying what alerts need to be escalated vs what can be remediated (closed) by L1 analysts as well as what to say when escalating from L1 to L2.
+SOC Simulator - Introduction to Phishing RM5: I successfully triaged all the "true positive" phishing attempts, however I still need some work on the 5Ws section for clearly explaining why I categorized each alert the way I did. Overall a fun experience that allowed me to see what it is actually like to triage and escalate phishing alerts. 
+Introduction to EDR RM6- Learned how to use the essential tool, EDR, often used in SOC. I got to play around in the simulator and practice what it actually looks like to use an EDR, it was fun to see these things in action as well as learn about new tools I will be using on my path of cyber security.
+Introduction to SIEM RM7- I got the opportunity to practice my hand at an SIEM in real time and properly triaged the miner alert created by the imaginary character “Chris.” It was a fun experience getting to try something IRL that I have learned about in several different courses now as well as learn more about how SIEMs operate and function in the cyber security landscape.
